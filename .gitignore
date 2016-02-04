@@ -1,0 +1,10 @@
+
+
+
+.ivy/*
+webs/resources-importer-web/docroot/WEB-INF/classes/*
+portlets/birthday-portlet/docroot/WEB-INF/classes/*
+
+*.class
+
+build.isaiulate.properties
